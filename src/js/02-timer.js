@@ -1,7 +1,7 @@
 import '../css/common.css';
 import flatpickr from 'flatpickr';
 import 'flatpickr/dist/flatpickr.min.css';
-// require('flatpickr/dist/themes/material_blue.css');
+require('flatpickr/dist/themes/material_blue.css');
 import Notiflix from 'notiflix';
 
 // VARIABLES
