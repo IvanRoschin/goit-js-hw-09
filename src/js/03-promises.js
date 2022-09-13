@@ -2,7 +2,6 @@ import '../css/common.css';
 import Notiflix from 'notiflix';
 
 // VARIABLES
-
 const refs = {
   formEl: document.querySelector('form'),
 };
